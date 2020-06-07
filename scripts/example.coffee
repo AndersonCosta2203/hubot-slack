@@ -1,3 +1,5 @@
+'use strict';
+
 # Description:
 #   Example scripts for you to examine and try out.
 #
